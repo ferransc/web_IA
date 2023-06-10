@@ -48,7 +48,7 @@ a {
     margin: 0;
 }
 .main {
-    background-image: url('img/bg-hero-home.jpg');
+    background-image: url('bg-hero-home.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
