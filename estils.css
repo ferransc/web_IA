@@ -41,7 +41,7 @@ a {
     color: var(--primary-color);
 }
 .cap {
-    display: flex;
+    display: block;
     list-style: none;
     text-transform: uppercase;
     font-weight: 700;
@@ -83,7 +83,7 @@ a {
 .grid1 {
     margin: 1% 10%;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 1fr);
     grid-gap: 2%;
     overflow: hidden;
 }
