@@ -17,6 +17,11 @@ body {
     color: var(--primary-color);
     line-height: 1.5;
 }
+@media screen and (max-width:480px){
+	body {
+		font-size:80%; // achicamos la fuente en pantallas pequeñas 
+	} 
+}
 header {
     padding: 1% 15%;
     width: 100%;
