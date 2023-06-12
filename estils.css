@@ -112,8 +112,12 @@ header a:hover {
         margin: 1% 10%;
         display: block;
         overflow: hidden;
-        background-color: rgb(244, 246, 247);
+        grid-gap: 5%;
     }
+.grid2 div {
+    margin: 5% 0;
+    background-color: rgb(244, 246, 247);
+}
 /**********
         LAPTOP I PANTALLES GRANS
 **********/
